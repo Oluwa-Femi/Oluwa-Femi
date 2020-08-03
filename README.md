@@ -1,4 +1,4 @@
-![Oluwafemi Oluwatola's banner](https://github.com/Oluwa-Femi/HelloFemi)
+![Oluwafemi Oluwatola's banner](https://github.com/Oluwa-Femi/Oluwa-Femi/blob/master/banner.png)
 Hi 👋
 I am Femi!
 <!--
