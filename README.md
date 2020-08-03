@@ -1,5 +1,6 @@
-### Hi there 👋
-
+![Oluwafemi Oluwatola's banner](https://github.com/Oluwa-Femi/HelloFemi)
+Hi 👋
+I am Femi!
 <!--
 **Oluwa-Femi/Oluwa-Femi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
