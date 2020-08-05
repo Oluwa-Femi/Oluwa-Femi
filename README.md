@@ -1,4 +1,4 @@
-![Oluwafemi Oluwatola's banner](https://github.com/Oluwa-Femi/Oluwa-Femi/blob/master/banner.png)
+![Oluwafemi Blessing Oluwatola's banner](https://github.com/Oluwa-Femi/Oluwa-Femi/blob/master/banner.png)
 
 ## Hi 👋 I'm Femi!
  I am a software engineer specializing in front-end and back-end web development. I am interested in how problems are broken down into smaller bits and creative resolutions are birthed. My goal is to be a creator of intuitive, interesting and impactful technology solutions working with a team of like minds. 
